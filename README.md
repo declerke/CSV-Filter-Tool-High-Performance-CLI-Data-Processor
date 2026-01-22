@@ -90,7 +90,3 @@ python test_csv_filter.py
 * **Cross-Platform Compatibility:** Solving Windows/WSL `cp1252` encoding and shell quoting challenges.
 * **Defensive Programming:** Implementing graceful failure modes when files or columns are missing.
 * **Automated Testing:** Creating a self-contained test runner that generates and cleans up its own mock data.
-
----
-
-*Developed as a demonstration of high-efficiency data engineering and CLI tool development.*
